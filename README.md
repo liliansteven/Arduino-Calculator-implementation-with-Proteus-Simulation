@@ -5,7 +5,7 @@ This repository presents an Arduino project that implements a simple calculator 
 ![](PhotoOfProtues.png)
 
 ## Video in which I explained the code
-
+You will find a video in which I explain the code with audio [here](https://drive.google.com/file/d/1XOuhXDWWpyv2odDmbPRsv3qJK82X93IM/view?usp=sharing).
 
 ## Hardware Setup
 - Connect the rows (r1-r4) to pins 0-3 on the Arduino.
@@ -32,5 +32,6 @@ C 0 = +
 - **`Calculator.ino`**: Arduino code for simple Calculator implementation.
 - **`Calculator.pdsprj`**: Proteus simulation file for visualizing the implementation.
 - **`Calculator.ino.with_bootloader.hex`**: The hex file from the arduino compile.
+- **`Explaining mycode.mp4`**: This is a short video of the arduino code and the proteus implementation , you will find it with Audio [here](https://drive.google.com/file/d/1XOuhXDWWpyv2odDmbPRsv3qJK82X93IM/view?usp=sharing).
 
 Feel free to explore, modify, and use this code and simulation for your own Arduino and Proteus projects!
